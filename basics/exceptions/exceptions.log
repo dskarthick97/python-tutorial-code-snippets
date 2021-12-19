@@ -1,0 +1,127 @@
+2021-08-16 11:12:49,659 - __main__ - ERROR - Got a index error in ['Interstellar', 'Inception', 'Source Code', 'Loki']
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:15:10,918 - __main__ - ERROR - list index out of range
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:17:24,563 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:17:50,832 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:17:57,625 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:19:49,250 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:20:43,833 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:20:43,833 - __main__ - ERROR - AppException occured
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 31, in <module>
+    sample_func()
+  File "main.py", line 23, in sample_func
+    raise AppException from err
+AppException
+2021-08-16 11:23:10,843 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:23:10,843 - __main__ - ERROR - AppException occured
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 31, in <module>
+    sample_func()
+  File "main.py", line 23, in sample_func
+    raise AppException(err) from err
+AppException: list index out of range
+2021-08-16 11:38:02,799 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 11:38:02,800 - __main__ - ERROR - AppException occured
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 31, in <module>
+    sample_func()
+  File "main.py", line 23, in sample_func
+    raise AppException(err) from err
+AppException: list index out of range
+2021-08-16 16:02:15,354 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 16:04:21,732 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 16:06:23,235 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 16:06:23,235 - __main__ - ERROR - AppException occured
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    sample_func()
+  File "main.py", line 25, in sample_func
+    raise AppException(err)
+AppException: list index out of range
+2021-08-16 16:16:35,813 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-16 16:21:47,369 - __main__ - ERROR - IndexError occured - movies has only 3 indices
+Traceback (most recent call last):
+  File "main.py", line 20, in sample_func
+    movies[4]
+IndexError: list index out of range
+2021-08-18 18:13:24,611 - __main__ - INFO - Successfull!
